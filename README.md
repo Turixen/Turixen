@@ -5,7 +5,7 @@
 <img src="https://github.com/Turixen/Turixen/blob/fccd1f6a5682f7e7a86ca61e4c006f8c1b68f935/MortyGif.gif?raw=true" href="https://github.com/Turixen" alt="Hello Coders" width="400"/> <br>
 
 ## WhoAmI:
-I am a bachelor's degree student in Computer Engineering at AlmaMaterStudiorum - Bologna.
+I am a bachelor's degree student in Computer Engineering at AlmaMaterStudiorum - Bologna.</br>
 Check my organization `FlippaFloppa` to see my or my friends' code :)
 #### I’m currently learning:
 - `Web Developing(HTML,JavaScript,React)`

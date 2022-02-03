@@ -6,8 +6,9 @@
 
 ## WhoAmI:
 I am a bachelor's degree student in Computer Engineering at AlmaMaterStudiorum - Bologna.
+Check my organization `FlippaFloppa` to see my or my friends' code :)
 #### I’m currently learning:
-- `Web Developing(HTML,JavaScript)`
+- `Web Developing(HTML,JavaScript,React)`
 - `Programming (Python)`
 - `Cybersecurity`
 

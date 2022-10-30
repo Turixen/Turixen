@@ -8,9 +8,8 @@
 I am a bachelor's degree student in Computer Engineering at AlmaMaterStudiorum - Bologna.</br>
 Check my organization [FlippaFloppa](https://github.com/FlippaFloppa) to see my or my friends' code :)
 #### I’m currently learning:
-- `Web Developing(HTML,JavaScript,React)`
-- `Programming (Python)`
-- `Cybersecurity`
+- `Angular`
+- `Python`
 
 
 <hr/>
@@ -31,7 +30,7 @@ Check my organization [FlippaFloppa](https://github.com/FlippaFloppa) to see my 
 <hr></hr>
 
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[Turixen](https://t.me/Giorgio_030)**<br>
-- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
+
 
 <div align="center" >
   

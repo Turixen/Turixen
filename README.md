@@ -8,7 +8,7 @@
 I am a bachelor's degree student in Computer Engineering at AlmaMaterStudiorum - Bologna.</br>
 Check my organization [FlippaFloppa](https://github.com/FlippaFloppa) to see my or my friends' code :)
 #### I’m currently learning:
-- `Angular`
+- `MLIR and advanced compilers`
 - `Python`
 
 
